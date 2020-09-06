@@ -1,3 +1,4 @@
+#!usr/bin/python
 import transposition
 import englishchecker
 import pyperclip
